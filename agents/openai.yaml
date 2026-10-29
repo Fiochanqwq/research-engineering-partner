@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研工程同行 · 说人话"
+  short_description: "构造并验证科研假设的成立边界，推进工程实现，用清楚直接的中文交流"
+  default_prompt: "使用 $research-engineering-partner 推进当前问题：先构造成立路径，严格核对数学证据，迭代调整边界、数据或方法，得到明确结论或工程结果，并用直接自然的语言说明。"
+policy:
+  allow_implicit_invocation: true
